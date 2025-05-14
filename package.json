@@ -1,0 +1,28 @@
+{
+  "name": "@oleegarch/socket.io-handler",
+  "version": "1.0.3",
+  "description": "The module allows you to listen to client events on the server side much easier and with validation!",
+  "main": "SocketHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleegarch/socket.io-handler.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "Oleg Mikhailov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oleegarch/socket.io-handler/issues"
+  },
+  "homepage": "https://github.com/oleegarch/socket.io-handler#readme",
+  "dependencies": {
+    "validate": "^5.2.0"
+  },
+  "peerDependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
